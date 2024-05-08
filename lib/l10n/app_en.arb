@@ -1,0 +1,20 @@
+{
+  "profileTitle": "Profile",
+  "name": "shayan zare",
+  "job": "Graphic Designer",
+  "location": "Fars , Iran",
+  "summaty": "As you explore Flutter, there comes a time when you need to share application state between screens, across your app. There are many approaches you can take, and many questions to think about.In the following pages, you will learn the basics of dealing with state in Flutter apps.",
+  "selectedLanguage": "Selected Language",
+  "english": "English",
+  "farsi": "Farsi",
+  "skillText": "Skils",
+  "personalInformation": "Personal Information",
+  "email": "Email",
+  "password": "Password",
+  "save": "Save",
+  "photoshopTitle":"photoshop",
+  "lightroomTitle":"lightroom",
+  "afterEffectTitle":"afterEffect",
+  "illustrator":"illustrator",
+  "abobeXdTitle":"AbobeXD"
+}
